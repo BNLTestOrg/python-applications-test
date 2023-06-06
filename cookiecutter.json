@@ -1,0 +1,6 @@
+{
+    "_template": "git@gitlab.pbn.bnl.gov:cookiecutters/python-app.git",
+    "app_name": "test",
+    "package_name": "test",
+    "setup_gitlab_project": true
+}
